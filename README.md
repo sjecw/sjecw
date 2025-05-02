@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there! I'm Sofia Chu 👋
+🌱 I am improving my progamming skill in C and C++
+
+📫 How to reach me:
+sofiajienchuwu@gmail.com
+
+
 
 <!--
 **sjecw/sjecw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
