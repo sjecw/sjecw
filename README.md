@@ -1,8 +1,14 @@
 # Hi there! I'm Sofia Chu 👋
-🌱 I am improving my progamming skill in C and C++
+##  💁‍♀️ About me: 
+I'm a Brazillian student exploring progamming for the first time!
 
-📫 How to reach me:
-sofiajienchuwu@gmail.com
+## 🌱 I'm currently learning:
+To improve my progamming skill in C and C++
+
+## 📫 How to reach me:
+Email: sofiajienchuwu@gmail.com
+
+Instagram : @sofiachuwu
 
 
 
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 sk me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
